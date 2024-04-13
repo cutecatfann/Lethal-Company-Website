@@ -13,7 +13,7 @@ Lethal Company Website is an attempt to make an unofficial official website for 
 - Company logo cards and sounds
 - Full bestiary as according to game data stored in JSON object
 
-### How It Works
+### How it Works
 - Players are initially on the logo page where it displays a terminal inspired by the Lethal Company opening terminal. On mouse/keyboard click they navigate to the next page
 - The question page asks the three questions that Lethal Company asks at the beginning of their games (name, position, and favorite animal). Once the players enter all the questions, they go to the next page
 - This is the homescreen where players are greeted with their name and the day of the week (like within the game), and then are able to click buttons to have cards with a dancing Lethal Company player pop up that also have the company motto sounds playing during the dancing. Players can then click the link to go to the Bestiary
